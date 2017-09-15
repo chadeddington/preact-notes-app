@@ -1,0 +1,5 @@
+node_modules
+build
+.firebaserc
+firebase.json
+npm-debug.log
